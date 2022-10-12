@@ -41,8 +41,8 @@ The following are examples of possible synergies:
 
 ### Both/in-between
 
--
--
+-Single- use buildings
+-Multi-use buildings 
 
 ### Other tenants?
 
